@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: ZuiHuiGou
+        psr4_prefix: ZuiHuiGou
+        src_path: app
